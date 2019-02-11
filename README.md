@@ -20,8 +20,8 @@ A collection of resources for trading
 
 ### Forex
 * [News forexfactory](https://www.forexfactory.com/)
-* [Forex trading: metatrader]
-* [MQL: Forex Auto trading]
+* [Forex trading: metatrader]()
+* [MQL: Forex Auto trading]()
 
 ### Misc
 * [kaggle Bitcoin Historical Data]()

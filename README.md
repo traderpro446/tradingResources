@@ -24,7 +24,7 @@ A collection of resources for trading
 * [MQL: Forex Auto trading]
 
 ### Misc
-* [kaggle Bitcoin Historical Data] 
+* [kaggle Bitcoin Historical Data]()
 * [Quantstart](https://www.quantstart.com/successful-algorithmic-trading-ebook)
 * [Quantopian](https://www.quantopian.com/tutorials/getting-started#lesson1)
 * [StockTwits](https://stocktwits.com/)

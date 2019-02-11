@@ -19,6 +19,20 @@ A collection of resources for trading
 * [Intrinio](https://intrinio.com/)
 
 ### Forex
-* [News forexfactory]
+* [News forexfactory](https://www.forexfactory.com/)
 * [Forex trading: metatrader]
 * [MQL: Forex Auto trading]
+
+### Misc
+* [kaggle Bitcoin Historical Data] 
+* [Quantstart]()
+* [Quantopian]()
+* [StockTwits]()
+* [Facebook prophet]()
+* [POLONIX API documentation]()
+* [newsnow]()
+* [Free tools for Twitter sentiment analysis]()
+* [Book: Analysis of Financial Data Time Series, by Ruey Tsay]()
+* Forex data: dukascopy
+* [fibo group](https://www.fibogroup.com/)
+* [Intro to RL for trading](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)

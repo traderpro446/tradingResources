@@ -25,14 +25,14 @@ A collection of resources for trading
 
 ### Misc
 * [kaggle Bitcoin Historical Data] 
-* [Quantstart]()
-* [Quantopian]()
-* [StockTwits]()
-* [Facebook prophet]()
-* [POLONIX API documentation]()
-* [newsnow]()
-* [Free tools for Twitter sentiment analysis]()
-* [Book: Analysis of Financial Data Time Series, by Ruey Tsay]()
-* Forex data: dukascopy
+* [Quantstart](https://www.quantstart.com/successful-algorithmic-trading-ebook)
+* [Quantopian](https://www.quantopian.com/tutorials/getting-started#lesson1)
+* [StockTwits](https://stocktwits.com/)
+* [Facebook prophet](https://github.com/facebook/prophet)
+* [POLONIX API documentation](https://docs.poloniex.com/#introduction)
+* [newsnow](https://www.newsnow.co.uk/h/Business+&+Finance/Cryptocurrencies)
+* [Free tools for Twitter sentiment analysis](https://www.softwareadvice.com/resources/free-twitter-sentiment-analysis-tools/)
+* [Book: Analysis of Financial Data Time Series, by Ruey Tsay](http://cfa.goldenglobal.org.cn/uploadfile/append_file/%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD/CFA%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/Analysis%20of%20Financial%20Time%20Series%202nd%20Edition.pdf)
+* [Forex data: dukascopy](https://www.dukascopy.com/swiss/english/marketwatch/historical/)
 * [fibo group](https://www.fibogroup.com/)
 * [Intro to RL for trading](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)
